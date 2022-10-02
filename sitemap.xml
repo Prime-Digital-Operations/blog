@@ -4,4 +4,12 @@
 <url>
 <loc>https://blog.primedigitalops.com/</loc>
 </url>
+<url>
+<loc>https://blog.primedigitalops.com/post-1-title.html</loc>
+<lastmod>2022-10-03T01:08:44+02:00</lastmod>
+<image:image>
+<image:loc>https://blog.primedigitalops.com/media\posts\1/pexels-thisisengineering-3862132.jpg</image:loc>
+<image:title><![CDATA[image alt text]]></image:title>
+</image:image>
+</url>
 </urlset>
